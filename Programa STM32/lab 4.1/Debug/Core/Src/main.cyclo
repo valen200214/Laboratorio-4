@@ -1,0 +1,9 @@
+../Core/Src/main.c:93:6:TransmitirDatos	2
+../Core/Src/main.c:123:5:main	20
+../Core/Src/main.c:317:6:SystemClock_Config	3
+../Core/Src/main.c:363:13:MX_I2C1_Init	2
+../Core/Src/main.c:397:13:MX_TIM2_Init	4
+../Core/Src/main.c:445:13:MX_TIM3_Init	4
+../Core/Src/main.c:490:13:MX_TIM5_Init	4
+../Core/Src/main.c:535:13:MX_GPIO_Init	1
+../Core/Src/main.c:575:6:Error_Handler	1
